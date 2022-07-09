@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/alexander-kart-427625218">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/alexanderkart">
     <img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram Badge"/>
